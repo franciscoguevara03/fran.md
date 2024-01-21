@@ -1,9 +1,9 @@
-<h1 align='center'> I'm Francisco Guevara 👋</h1>
+<h1 align='center'>Francisco Guevara 👋</h1>
 
 
-<h3 align="center">💻 About Me: </h3>
+<h3 align='center'>💻 About Me: </h3>
 <!-- BLOGPOSTS:START -->
-I am a fullstack developer passionate about programming and constant progress. I strive to continuously improve my skills and solve problems effectively in a team. My experience and technical knowledge allow me to tackle challenging projects with confidence. I invite you to view my resume below to learn more about my work and achievements. I am also available to answer any questions related to my field of expertise.
+A fullstack developer passionate about programming and constant progress. I strive to continuously improve my skills and solve problems effectively in a team. My experience and technical knowledge allow me to tackle challenging projects with confidence. I invite you to view my resume below to learn more about my work and achievements. I am also available to answer any questions related to my field of expertise.
 <!-- BLOGPOSTS:END -->
 
 ----------------------------------------------
@@ -25,3 +25,5 @@ I am a fullstack developer passionate about programming and constant progress. I
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscoguevara03&bg_color=130F40&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="franciscoguevara" width="350" height="250" style="margin: 0 10px;"/>  
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoguevara03&layout=compact)
